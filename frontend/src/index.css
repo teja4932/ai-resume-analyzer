@@ -54,10 +54,6 @@ html, body {
   background: rgba(102, 126, 234, 0.3);
   color: #f0f1f5;
 }
-  display: inline-flex;
-  border-radius: 4px;
-  color: var(--text-h);
-}
 
 code {
   font-size: 15px;
